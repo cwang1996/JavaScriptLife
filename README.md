@@ -4,7 +4,7 @@ After finishing the 30 Websites in 30 Days project, I did not feel that I had a 
 
 |  #  | Project                                                                                                                                 | Live Demo                                                |
 | :-: | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| 01  | [Drawing Board]()                             | [Live Demo] |
+| 01  | [Drawing Board]()                             | <a href="https://cwang1996.github.io/Canvas/">Day 1</a> |
 
 
 
