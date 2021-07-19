@@ -6,5 +6,7 @@ After finishing the 30 Websites in 30 Days project, I did not feel that I had a 
 | :-: | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | 01  | Drawing Board | <a href="https://cwang1996.github.io/Canvas/">Day 1</a> |
 
+| 02  | Pomodoro Clock | <a href="https://cwang1996.github.io/PomoClock/">Day 2</a> |
+
 
 
