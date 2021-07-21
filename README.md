@@ -8,6 +8,8 @@ After finishing the 30 Websites in 30 Days project, I did not feel that I had a 
 | 02  | Pomodoro Clock | <a href="https://cwang1996.github.io/PomoClock/">Day 2</a> |
 | 03  | PictureChange | <a href="https://cwang1996.github.io/PictureChange/">Day 3</a> |
 | 04  | SlideIn | <a href="https://cwang1996.github.io/SlideIn/">Day 4</a> |
+| 05  | SplitPage | <a href="https://cwang1996.github.io/SplitPage/">Day 5</a> |
+
 
 
 
