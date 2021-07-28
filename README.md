@@ -4,13 +4,13 @@ After finishing the 30 Websites in 30 Days project, I did not feel that I had a 
 
 |  #  | Project                                                                                                                                 | Demo                                               |
 | :-: | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| 01  | Drawing Board | <a href="https://cwang1996.github.io/Canvas/">Day 1</a> |
-| 02  | Pomodoro Clock | <a href="https://cwang1996.github.io/PomoClock/">Day 2</a> |
-| 03  | PictureChange | <a href="https://cwang1996.github.io/PictureChange/">Day 3</a> |
-| 04  | SlideIn | <a href="https://cwang1996.github.io/SlideIn/">Day 4</a> |
-| 05  | SplitPage | <a href="https://cwang1996.github.io/SplitPage/">Day 5</a> |
-| 06  | ExchangeRate | <a href="https://cwang1996.github.io/ExchangeRate/">Day 6</a> |
-| 07  | AutoImg | <a href="https://cwang1996.github.io/AutoImg/">Day 7</a> |
+| 01  | Drawing Board | <a href="https://cwang1996.github.io/Canvas/">Live</a> |
+| 02  | Pomodoro Clock | <a href="https://cwang1996.github.io/PomoClock/">Live</a> |
+| 03  | PictureChange | <a href="https://cwang1996.github.io/PictureChange/">Live</a> |
+| 04  | SlideIn | <a href="https://cwang1996.github.io/SlideIn/">Live</a> |
+| 05  | SplitPage | <a href="https://cwang1996.github.io/SplitPage/">Live</a> |
+| 06  | ExchangeRate | <a href="https://cwang1996.github.io/ExchangeRate/">Live</a> |
+| 07  | AutoImg | <a href="https://cwang1996.github.io/AutoImg/">Live</a> |
 
 
 
