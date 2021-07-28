@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    user-select: none;
+}
+
+body {
+    background-color: #253237;
+    color: #fff;
+    font-family: 'Poppins';
+}
+
+.images {
+    width: 350px;
+    height: 600px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0px 0px 10px #fff;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+    background-color: #fff;
+}
+
+.content2, .content3, .content4 {
+    position: absolute;
+}
+
+.images img {
+    width: 350px;
+    height: 500px;
+    object-fit: contain;
+    transition: opacity 1s ease;
+}
+
+.hide {
+    opacity: 0;
+}
+
+.show {
+    opacity: 1;
+}
+
+.navigation ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    width: 350px;
+    justify-content: space-evenly;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 200%);
+    border: .1px solid #fff;
+    align-items: center;
+    background-color: #111;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-weight: bold;
+}
+
+.active1 {
+    color: yellow;
+}
+
+.active2 {
+    color: red;
+}
+
+.active3 {
+    color: lightblue;
+}
+
+.active4 {
+    color: purple;
+}
+
+.navigation li {
+    cursor: pointer;
+}
+
