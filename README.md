@@ -12,6 +12,8 @@ After finishing the 30 Websites in 30 Days project, I did not feel that I had a 
 | 06  | ExchangeRate | <a href="https://cwang1996.github.io/ExchangeRate/">Live Demo</a> |
 | 07  | AutoImg | <a href="https://cwang1996.github.io/AutoImg/">Live Demo</a> |
 | 08  | MobileTab | <a href="https://cwang1996.github.io/MobileTab/">Live Demo</a> |
+| 09  | Hover | <a href="https://cwang1996.github.io/Hover/">Live Demo</a> |
+| 10  | Etch-a-Sketch | <a href="https://cwang1996.github.io/Etch/">Live Demo</a> |
 
 
 
