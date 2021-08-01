@@ -14,6 +14,7 @@ After finishing the 30 Websites in 30 Days project, I did not feel that I had a 
 | 08  | MobileTab | <a href="https://cwang1996.github.io/MobileTab/">Live Demo</a> |
 | 09  | Hover | <a href="https://cwang1996.github.io/Hover/">Live Demo</a> |
 | 10  | Etch-a-Sketch | <a href="https://cwang1996.github.io/Etch/">Live Demo</a> |
+| 11  | Calculator | <a href="https://cwang1996.github.io/Calculate2/">Live Demo</a> |
 
 
 
